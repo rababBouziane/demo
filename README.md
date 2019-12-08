@@ -1,7 +1,7 @@
  # SpringBoot Application
  To run the application, please run  ./mvnw spring-boot:run . 
  
- The application will be on port 9090 (as specified in application.properties).
+ The application server will be listening on localhost:9090 (as specified in application.properties).
  
  The implemented functionalities are : 
  
